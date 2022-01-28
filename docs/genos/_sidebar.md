@@ -1,3 +1,2 @@
-
-* [Home](/)
-* [Guide](guide.md)
+- [Home](/)
+- [Guide](guide.md)
